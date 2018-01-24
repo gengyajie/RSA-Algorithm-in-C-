@@ -1,4 +1,4 @@
-# RSA-Algorithm-in-C-
+# RSA-Algorithm-in-Cpp
 Implementation of RSA in C++
 
 This program implements the RSA crypto-system in C++ using GNU integer interface. To run this program, your computer must have GNU libary installed. 
